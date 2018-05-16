@@ -9,5 +9,5 @@ For this year's contest, it actually can be divided into two parts, any of them 
 
 For the first part, it can be regarded as a ML task. Due to the competition restriction, competitors can not use any third-part libraries, so we just use Gray Model.
 
-For the second part, it's NP hard problem, which can be regarded as a packing problem in two dimensions. We realized the algrithm as mentioned in the doc above.
+For the second part, it's a NP hard problem, which can be regarded as a packing problem in two dimensions. We realized the algrithm as mentioned in the doc above.
 
